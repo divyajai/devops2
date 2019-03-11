@@ -7,4 +7,4 @@ on 11-3-19
 
 ls
 pwd
-
+ifconfig
